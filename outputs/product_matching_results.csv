@@ -1,0 +1,46 @@
+product_a_id,product_a_marketplace,product_a_name,product_b_id,product_b_marketplace,product_b_name,same_product_id,text_similarity,attribute_similarity,model_number_match,match_score,match_category
+SP001,Amazon,Samsung Galaxy S24 5G 256GB Black,SP001,Flipkart,Samsung S24 5G Smartphone,True,0.921,1.0,True,0.9605,High Match
+SP001,Amazon,Samsung Galaxy S24 5G 256GB Black,SP001,Meesho,Samsung Galaxy S24 256GB Mobile,True,0.9359,1.0,True,0.968,High Match
+SP001,Flipkart,Samsung S24 5G Smartphone,SP001,Meesho,Samsung Galaxy S24 256GB Mobile,True,0.8642,1.0,True,0.9321,High Match
+SP002,Amazon,Apple iPhone 15 128GB Black,SP002,Flipkart,Apple iPhone 15 Smartphone,True,0.9768,1.0,True,0.9884,High Match
+SP002,Amazon,Apple iPhone 15 128GB Black,SP002,Meesho,Apple iPhone 15 128GB Mobile,True,0.9371,1.0,True,0.9686,High Match
+SP002,Flipkart,Apple iPhone 15 Smartphone,SP002,Meesho,Apple iPhone 15 128GB Mobile,True,0.9222,1.0,True,0.9611,High Match
+SP003,Amazon,OnePlus 13 256GB Black,SP003,Flipkart,OnePlus 13 5G Smartphone,True,0.9693,1.0,True,0.9847,High Match
+SP003,Amazon,OnePlus 13 256GB Black,SP003,Meesho,OnePlus 13 256GB Smartphone,True,0.9851,1.0,True,0.9925,High Match
+SP003,Flipkart,OnePlus 13 5G Smartphone,SP003,Meesho,OnePlus 13 256GB Smartphone,True,0.9859,1.0,True,0.993,High Match
+SP004,Amazon,Google Pixel 9 256GB Obsidian,SP004,Flipkart,Google Pixel 9 5G Phone,True,0.9606,1.0,True,0.9803,High Match
+SP004,Amazon,Google Pixel 9 256GB Obsidian,SP004,Meesho,Google Pixel 9 256GB Smartphone,True,0.9639,1.0,True,0.9819,High Match
+SP004,Flipkart,Google Pixel 9 5G Phone,SP004,Meesho,Google Pixel 9 256GB Smartphone,True,0.976,1.0,True,0.988,High Match
+SP005,Amazon,Sony WH-1000XM5 Standard Black,SP005,Flipkart,Sony WH1000XM5 Wireless Headphones,True,0.954,1.0,True,0.977,High Match
+SP005,Amazon,Sony WH-1000XM5 Standard Black,SP005,Meesho,Sony Wireless Noise Cancelling Headphones,True,0.839,1.0,True,0.9195,High Match
+SP005,Flipkart,Sony WH1000XM5 Wireless Headphones,SP005,Meesho,Sony Wireless Noise Cancelling Headphones,True,0.8806,1.0,True,0.9403,High Match
+SP006,Amazon,Apple MacBook Air M3 256GB Space Grey,SP006,Flipkart,Apple MacBook Air M3 Laptop,True,0.9632,1.0,True,0.9816,High Match
+SP006,Amazon,Apple MacBook Air M3 256GB Space Grey,SP006,Meesho,Apple MacBook Air M3 8GB Laptop,True,0.9581,1.0,True,0.9791,High Match
+SP006,Flipkart,Apple MacBook Air M3 Laptop,SP006,Meesho,Apple MacBook Air M3 8GB Laptop,True,0.9952,1.0,True,0.9976,High Match
+SP007,Amazon,HP Pavilion 14 512GB Silver,SP007,Flipkart,HP Pavilion 14 Laptop,True,0.9774,1.0,True,0.9887,High Match
+SP007,Amazon,HP Pavilion 14 512GB Silver,SP007,Meesho,HP Pavilion 14 16GB Laptop,True,0.9702,1.0,True,0.9851,High Match
+SP007,Flipkart,HP Pavilion 14 Laptop,SP007,Meesho,HP Pavilion 14 16GB Laptop,True,0.9932,1.0,True,0.9966,High Match
+SP008,Amazon,Dell Inspiron 15 512GB Silver,SP008,Flipkart,Dell Inspiron 15 Laptop,True,0.9765,1.0,True,0.9883,High Match
+SP008,Amazon,Dell Inspiron 15 512GB Silver,SP008,Meesho,Dell Inspiron 15 16GB Laptop,True,0.9692,1.0,True,0.9846,High Match
+SP008,Flipkart,Dell Inspiron 15 Laptop,SP008,Meesho,Dell Inspiron 15 16GB Laptop,True,0.993,1.0,True,0.9965,High Match
+SP009,Amazon,boAt Airdopes 141 Standard Black,SP009,Flipkart,boAt Airdopes 141 Bluetooth Earbuds,True,0.9071,1.0,True,0.9536,High Match
+SP009,Amazon,boAt Airdopes 141 Standard Black,SP009,Meesho,boAt Airdopes 141 Wireless Earbuds,True,0.9615,1.0,True,0.9807,High Match
+SP009,Flipkart,boAt Airdopes 141 Bluetooth Earbuds,SP009,Meesho,boAt Airdopes 141 Wireless Earbuds,True,0.9227,1.0,True,0.9614,High Match
+SP010,Amazon,JBL Tune 230NC Standard Black,SP010,Flipkart,JBL Tune 230NC TWS Earbuds,True,0.9392,1.0,True,0.9696,High Match
+SP010,Amazon,JBL Tune 230NC Standard Black,SP010,Meesho,JBL Tune 230NC Bluetooth Earbuds,True,0.888,1.0,True,0.944,High Match
+SP010,Flipkart,JBL Tune 230NC TWS Earbuds,SP010,Meesho,JBL Tune 230NC Bluetooth Earbuds,True,0.897,1.0,True,0.9485,High Match
+SP011,Amazon,Nike Revolution 7 Standard Black,SP011,Flipkart,Nike Revolution 7 Running Shoes,True,0.9587,1.0,True,0.9793,High Match
+SP011,Amazon,Nike Revolution 7 Standard Black,SP011,Meesho,Nike Revolution 7 Sports Running Shoes,True,0.9144,1.0,True,0.9572,High Match
+SP011,Flipkart,Nike Revolution 7 Running Shoes,SP011,Meesho,Nike Revolution 7 Sports Running Shoes,True,0.954,1.0,True,0.977,High Match
+SP012,Amazon,Adidas Duramo SL Standard Black,SP012,Flipkart,Adidas Duramo SL Running Shoes,True,0.9583,1.0,True,0.9792,High Match
+SP012,Amazon,Adidas Duramo SL Standard Black,SP012,Meesho,Adidas Duramo SL Sports Shoes,True,0.9221,1.0,True,0.961,High Match
+SP012,Flipkart,Adidas Duramo SL Running Shoes,SP012,Meesho,Adidas Duramo SL Sports Shoes,True,0.932,1.0,True,0.966,High Match
+SP013,Amazon,Xiaomi 55 Inch 4K Smart TV 55 Inch Black,SP013,Flipkart,Xiaomi 55 Inch 4K Ultra HD Smart TV,True,0.9254,1.0,True,0.9627,High Match
+SP013,Amazon,Xiaomi 55 Inch 4K Smart TV 55 Inch Black,SP013,Meesho,Xiaomi 55 Inch 4K Smart LED TV,True,0.9711,1.0,True,0.9855,High Match
+SP013,Flipkart,Xiaomi 55 Inch 4K Ultra HD Smart TV,SP013,Meesho,Xiaomi 55 Inch 4K Smart LED TV,True,0.9103,1.0,True,0.9552,High Match
+SP014,Amazon,LG 55 Inch 4K Smart TV 55 Inch Black,SP014,Flipkart,LG 55 Inch 4K UHD Smart Television,True,0.9347,1.0,True,0.9673,High Match
+SP014,Amazon,LG 55 Inch 4K Smart TV 55 Inch Black,SP014,Meesho,LG 55 Inch 4K Smart LED Television,True,0.94,1.0,True,0.97,High Match
+SP014,Flipkart,LG 55 Inch 4K UHD Smart Television,SP014,Meesho,LG 55 Inch 4K Smart LED Television,True,0.953,1.0,True,0.9765,High Match
+SP015,Amazon,Philips Air Fryer 4.1L Black,SP015,Flipkart,Philips HD9200 Air Fryer,True,0.9719,1.0,True,0.9859,High Match
+SP015,Amazon,Philips Air Fryer 4.1L Black,SP015,Meesho,Philips HD9200 4.1L Air Fryer,True,0.9807,1.0,True,0.9903,High Match
+SP015,Flipkart,Philips HD9200 Air Fryer,SP015,Meesho,Philips HD9200 4.1L Air Fryer,True,0.9938,1.0,True,0.9969,High Match

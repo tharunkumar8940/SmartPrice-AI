@@ -1,0 +1,46 @@
+product_id,marketplace,product_name,brand,category,history_start,history_end,observations,current_price,minimum_price,maximum_price,average_price,median_price,price_volatility,total_price_change,total_price_change_percent,above_historical_low_percent,below_historical_high_percent,historical_savings_opportunity,overall_trend,deal_status
+SP001,Amazon,Samsung Galaxy S24 5G 256GB Black,Samsung,Smartphone,2026-07-03,2026-09-30,90,70700.61,69989.52,77919.28,74317.53,74513.04,2101.98,-2719.64,-3.7,1.02,9.26,711.09,Decreasing,Excellent Deal
+SP001,Flipkart,Samsung S24 5G Smartphone,Samsung,Smartphone,2026-07-03,2026-09-30,88,70588.75,68556.74,77486.49,72603.07,72651.83,1954.96,-1509.66,-2.09,2.96,8.9,2032.01,Decreasing,Good Deal
+SP001,Meesho,Samsung Galaxy S24 256GB Mobile,Samsung,Smartphone,2026-07-03,2026-09-30,88,68187.51,67574.06,74829.29,71373.42,71502.86,1800.9,-1802.63,-2.58,0.91,8.88,613.45,Decreasing,Excellent Deal
+SP002,Amazon,Apple iPhone 15 128GB Black,Apple,Smartphone,2026-07-03,2026-09-29,86,69262.97,65234.75,73458.4,69239.49,69006.44,1839.63,581.23,0.85,6.17,5.71,4028.22,Stable,Above Average
+SP002,Flipkart,Apple iPhone 15 Smartphone,Apple,Smartphone,2026-07-03,2026-09-30,88,63705.02,63705.02,71356.1,67577.06,67586.64,1812.61,-3208.83,-4.8,0.0,10.72,0.0,Decreasing,Excellent Deal
+SP002,Meesho,Apple iPhone 15 128GB Mobile,Apple,Smartphone,2026-07-03,2026-09-30,89,65136.9,63207.4,70264.07,66771.98,66840.46,1783.48,977.51,1.52,3.05,7.3,1929.5,Stable,Good Deal
+SP003,Amazon,OnePlus 13 256GB Black,OnePlus,Smartphone,2026-07-03,2026-09-30,87,70598.17,65350.77,73028.6,69379.77,69454.67,1744.93,-249.09,-0.35,8.03,3.33,5247.4,Stable,Above Average
+SP003,Flipkart,OnePlus 13 5G Smartphone,OnePlus,Smartphone,2026-07-03,2026-09-30,85,68383.31,63571.62,71655.86,67649.33,67555.88,1996.01,1107.6,1.65,7.57,4.57,4811.69,Stable,Above Average
+SP003,Meesho,OnePlus 13 256GB Smartphone,OnePlus,Smartphone,2026-07-03,2026-09-30,89,66628.51,62638.18,70377.2,66466.82,66293.38,2025.62,335.13,0.51,6.37,5.33,3990.33,Stable,Above Average
+SP004,Amazon,Google Pixel 9 256GB Obsidian,Google,Smartphone,2026-07-03,2026-09-30,90,79581.23,75298.27,83716.9,79657.56,79901.07,2187.14,1916.1,2.47,5.69,4.94,4282.96,Increasing,Fair Price
+SP004,Flipkart,Google Pixel 9 5G Phone,Google,Smartphone,2026-07-03,2026-09-30,87,73212.81,73212.81,81441.59,77375.24,77179.13,1864.84,-3766.29,-4.89,0.0,10.1,0.0,Decreasing,Excellent Deal
+SP004,Meesho,Google Pixel 9 256GB Smartphone,Google,Smartphone,2026-07-03,2026-09-30,90,75647.42,72504.33,80786.58,76376.38,76343.64,1995.5,2712.41,3.72,4.34,6.36,3143.09,Increasing,Good Deal
+SP005,Amazon,Sony WH-1000XM5 Standard Black,Sony,Headphones,2026-07-03,2026-09-30,89,28089.08,27286.61,31084.26,29290.11,29248.95,883.42,-1673.38,-5.62,2.94,9.64,802.47,Decreasing,Good Deal
+SP005,Flipkart,Sony WH1000XM5 Wireless Headphones,Sony,Headphones,2026-07-03,2026-09-30,87,28314.82,26676.63,30523.46,28469.92,28439.27,901.95,734.6,2.66,6.14,7.24,1638.19,Increasing,Fair Price
+SP005,Meesho,Sony Wireless Noise Cancelling Headphones,Sony,Headphones,2026-07-03,2026-09-30,86,26880.89,26774.02,30043.19,28217.31,28222.83,797.35,-2422.14,-8.27,0.4,10.53,106.87,Decreasing,Excellent Deal
+SP006,Amazon,Apple MacBook Air M3 256GB Space Grey,Apple,Laptop,2026-07-03,2026-09-30,89,115372.53,108775.38,120206.36,114518.0,114693.16,2931.16,5786.88,5.28,6.06,4.02,6597.15,Increasing,Above Average
+SP006,Flipkart,Apple MacBook Air M3 Laptop,Apple,Laptop,2026-07-03,2026-09-30,89,108144.08,105570.14,117604.91,111629.37,111832.48,2972.33,-885.96,-0.81,2.44,8.04,2573.94,Stable,Good Deal
+SP006,Meesho,Apple MacBook Air M3 8GB Laptop,Apple,Laptop,2026-07-03,2026-09-30,86,108132.3,104199.68,115364.1,109952.7,109800.9,2701.18,1521.79,1.43,3.77,6.27,3932.62,Stable,Good Deal
+SP007,Amazon,HP Pavilion 14 512GB Silver,HP,Laptop,2026-07-03,2026-09-30,89,63795.15,63795.15,70630.65,67296.6,67384.88,1813.69,-3589.73,-5.33,0.0,9.68,0.0,Decreasing,Excellent Deal
+SP007,Flipkart,HP Pavilion 14 Laptop,HP,Laptop,2026-07-03,2026-09-30,87,64587.18,61790.25,69530.32,65776.84,65801.72,1913.99,891.2,1.4,4.53,7.11,2796.93,Stable,Good Deal
+SP007,Meesho,HP Pavilion 14 16GB Laptop,HP,Laptop,2026-07-03,2026-09-30,85,63443.42,61619.44,68358.85,65145.56,65130.24,1609.18,-1473.77,-2.27,2.96,7.19,1823.98,Decreasing,Good Deal
+SP008,Amazon,Dell Inspiron 15 512GB Silver,Dell,Laptop,2026-07-03,2026-09-30,89,59452.18,58341.31,65359.37,62066.12,61840.47,1782.83,-3212.87,-5.13,1.9,9.04,1110.87,Decreasing,Excellent Deal
+SP008,Flipkart,Dell Inspiron 15 Laptop,Dell,Laptop,2026-07-03,2026-09-30,87,60152.91,57681.31,65031.14,60916.51,60875.98,1685.3,1897.6,3.26,4.28,7.5,2471.6,Increasing,Good Deal
+SP008,Meesho,Dell Inspiron 15 16GB Laptop,Dell,Laptop,2026-07-04,2026-09-30,88,57964.98,57197.42,63209.33,60058.28,59882.19,1512.88,-939.97,-1.6,1.34,8.3,767.56,Stable,Excellent Deal
+SP009,Amazon,boAt Airdopes 141 Standard Black,boAt,Audio,2026-07-03,2026-09-30,89,4104.36,4104.36,4698.19,4343.17,4337.31,135.29,-50.38,-1.21,0.0,12.64,0.0,Stable,Excellent Deal
+SP009,Flipkart,boAt Airdopes 141 Bluetooth Earbuds,boAt,Audio,2026-07-03,2026-09-30,90,4032.8,3986.69,4557.66,4232.95,4224.21,126.5,-233.76,-5.48,1.16,11.52,46.11,Decreasing,Excellent Deal
+SP009,Meesho,boAt Airdopes 141 Wireless Earbuds,boAt,Audio,2026-07-03,2026-09-30,89,4034.23,3961.03,4451.03,4185.3,4188.41,112.2,-60.73,-1.48,1.85,9.36,73.2,Stable,Excellent Deal
+SP010,Amazon,JBL Tune 230NC Standard Black,JBL,Audio,2026-07-03,2026-09-30,86,5550.16,5473.78,6340.36,5813.86,5782.32,192.29,-427.47,-7.15,1.4,12.46,76.38,Decreasing,Excellent Deal
+SP010,Flipkart,JBL Tune 230NC TWS Earbuds,JBL,Audio,2026-07-04,2026-09-30,87,5588.52,5374.41,6053.77,5678.65,5660.12,149.31,-424.73,-7.06,3.98,7.69,214.11,Decreasing,Good Deal
+SP010,Meesho,JBL Tune 230NC Bluetooth Earbuds,JBL,Audio,2026-07-03,2026-09-30,88,5335.33,5247.45,5943.38,5550.95,5538.41,152.62,-84.78,-1.56,1.67,10.23,87.88,Stable,Excellent Deal
+SP011,Amazon,Nike Revolution 7 Standard Black,Nike,Fashion,2026-07-03,2026-09-30,88,4941.64,4539.89,5096.98,4824.91,4818.74,132.49,35.33,0.72,8.85,3.05,401.75,Stable,Above Average
+SP011,Flipkart,Nike Revolution 7 Running Shoes,Nike,Fashion,2026-07-03,2026-09-30,89,4765.88,4475.85,5168.65,4704.49,4715.55,130.5,-27.71,-0.58,6.48,7.79,290.03,Stable,Above Average
+SP011,Meesho,Nike Revolution 7 Sports Running Shoes,Nike,Fashion,2026-07-04,2026-09-30,85,4697.44,4368.8,4945.53,4606.05,4596.34,117.77,109.24,2.38,7.52,5.02,328.64,Increasing,Above Average
+SP012,Amazon,Adidas Duramo SL Standard Black,Adidas,Fashion,2026-07-03,2026-09-30,90,5479.28,5438.01,6152.03,5764.79,5779.84,166.28,-173.98,-3.08,0.76,10.94,41.27,Decreasing,Excellent Deal
+SP012,Flipkart,Adidas Duramo SL Running Shoes,Adidas,Fashion,2026-07-03,2026-09-30,90,5574.0,5361.1,6129.78,5650.95,5648.95,160.61,-80.08,-1.42,3.97,9.07,212.9,Stable,Good Deal
+SP012,Meesho,Adidas Duramo SL Sports Shoes,Adidas,Fashion,2026-07-03,2026-09-30,88,5534.31,5217.09,5943.7,5538.81,5543.22,162.12,-163.37,-2.87,6.08,6.89,317.22,Decreasing,Fair Price
+SP013,Amazon,Xiaomi 55 Inch 4K Smart TV 55 Inch Black,Xiaomi,Smart TV,2026-07-03,2026-09-30,86,42230.7,41743.55,46713.75,44167.11,43986.66,1250.06,-700.99,-1.63,1.17,9.6,487.15,Stable,Excellent Deal
+SP013,Flipkart,Xiaomi 55 Inch 4K Ultra HD Smart TV,Xiaomi,Smart TV,2026-07-03,2026-09-30,89,41566.75,40114.46,46013.52,43288.02,43412.89,1230.98,-4134.69,-9.05,3.62,9.66,1452.29,Decreasing,Good Deal
+SP013,Meesho,Xiaomi 55 Inch 4K Smart LED TV,Xiaomi,Smart TV,2026-07-03,2026-09-30,88,42007.95,39898.45,45007.51,42514.84,42476.57,1175.05,-1078.93,-2.5,5.29,6.66,2109.5,Decreasing,Fair Price
+SP014,Amazon,LG 55 Inch 4K Smart TV 55 Inch Black,LG,Smart TV,2026-07-03,2026-09-30,87,55134.56,51638.58,57541.47,54385.23,54357.69,1519.96,2540.77,4.83,6.77,4.18,3495.98,Increasing,Above Average
+SP014,Flipkart,LG 55 Inch 4K UHD Smart Television,LG,Smart TV,2026-07-03,2026-09-30,90,51487.64,50674.94,56127.44,52993.3,52989.68,1222.95,-2637.34,-4.87,1.6,8.27,812.7,Decreasing,Excellent Deal
+SP014,Meesho,LG 55 Inch 4K Smart LED Television,LG,Smart TV,2026-07-03,2026-09-30,90,51255.23,49015.13,55174.22,52200.37,52359.24,1486.94,-1448.09,-2.75,4.57,7.1,2240.1,Decreasing,Good Deal
+SP015,Amazon,Philips Air Fryer 4.1L Black,Philips,Home Appliance,2026-07-03,2026-09-30,89,9074.23,9000.63,10291.31,9635.81,9681.75,294.76,-361.08,-3.83,0.82,11.83,73.6,Decreasing,Excellent Deal
+SP015,Flipkart,Philips HD9200 Air Fryer,Philips,Home Appliance,2026-07-03,2026-09-30,87,9118.91,8892.44,10204.95,9439.93,9445.43,254.02,-846.84,-8.5,2.55,10.64,226.47,Decreasing,Good Deal
+SP015,Meesho,Philips HD9200 4.1L Air Fryer,Philips,Home Appliance,2026-07-03,2026-09-30,86,9247.72,8722.35,9856.68,9231.1,9235.06,287.34,322.28,3.61,6.02,6.18,525.37,Increasing,Above Average
